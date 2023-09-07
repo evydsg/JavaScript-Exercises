@@ -1,1 +1,2 @@
-# JavaScript-Exercises
+# Kelvin to Celsius and Fahrenheit Converter
+Welcome to the Kelvin Weather Converter! My name is Evy, and I'm the mad scientist behind this project. I've been toiling away in my mountain-side meteorology lab, working tirelessly to master weather prediction. Recently, I decided to share my weather forecasts with the world by publishing them on my website. However, there's a small issue: all of my forecasts describe the temperature in Kelvin!
